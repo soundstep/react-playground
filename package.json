@@ -1,0 +1,34 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  },
+  "devDependencies": {
+    "babelify": "^7.2.0",
+    "babel-preset-react": "^6.3.13",
+    "gulp-notify": "^2.2.0",
+    "gulp-util": "^3.0.7",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soundstep/react-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundstep/react-playground/issues"
+  },
+  "homepage": "https://github.com/soundstep/react-playground"
+}
