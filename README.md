@@ -40,3 +40,7 @@ A different environment setup with webpack:
 #### lesson-8 - Component Lifecycle - Updating
 
 [https://egghead.io/lessons/react-component-lifecycle-updating](https://egghead.io/lessons/react-component-lifecycle-updating)
+
+#### lesson-9 - Higher Order Components (replaces Mixins)
+
+[https://egghead.io/lessons/react-react-fundamentals-higher-order-components-replaces-mixins](https://egghead.io/lessons/react-react-fundamentals-higher-order-components-replaces-mixins)
