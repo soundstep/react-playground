@@ -44,3 +44,7 @@ A different environment setup with webpack:
 #### lesson-9 - Higher Order Components (replaces Mixins)
 
 [https://egghead.io/lessons/react-react-fundamentals-higher-order-components-replaces-mixins](https://egghead.io/lessons/react-react-fundamentals-higher-order-components-replaces-mixins)
+
+#### lesson-10 - Composable Components
+
+[https://egghead.io/lessons/react-composable-components](https://egghead.io/lessons/react-composable-components)

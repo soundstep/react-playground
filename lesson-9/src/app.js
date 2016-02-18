@@ -22,6 +22,8 @@ let Mixin = InnerComponent => class extends React.Component {
         console.log('mounted');
     }
     render() {
+        console.log('state', this.state);
+        console.log('props', this.props);
         return (
             <InnerComponent
                 update={this.update}
