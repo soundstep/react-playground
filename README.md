@@ -48,3 +48,11 @@ A different environment setup with webpack:
 #### lesson-10 - Composable Components
 
 [https://egghead.io/lessons/react-composable-components](https://egghead.io/lessons/react-composable-components)
+
+#### lesson-11 - Dynamically Generated Components
+
+[https://egghead.io/lessons/react-dynamically-generated-components](https://egghead.io/lessons/react-dynamically-generated-components)
+
+#### lesson-12 - Build a JSX Live Compiler
+
+[https://egghead.io/lessons/build-a-jsx-live-compiler](https://egghead.io/lessons/build-a-jsx-live-compiler)
